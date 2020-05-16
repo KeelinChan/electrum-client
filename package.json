@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "github:7kharov/node-electrum-client",
+      "/home/vagrant/triplea_api"
+    ]
+  ],
+  "_from": "github:7kharov/node-electrum-client",
+  "_id": "electrum-client@github:7kharov/node-electrum-client#38e26263fae4c0984ef2336a58e5a84eb7c040bc",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/electrum-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "github:7kharov/node-electrum-client",
+    "rawSpec": "github:7kharov/node-electrum-client",
+    "saveSpec": "github:7kharov/node-electrum-client",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:7kharov/node-electrum-client#38e26263fae4c0984ef2336a58e5a84eb7c040bc",
+  "_spec": "github:7kharov/node-electrum-client",
+  "_where": "/home/vagrant/triplea_api",
+  "author": {
+    "name": "Yuki Akiyama"
+  },
+  "bugs": {
+    "url": "https://github.com/you21979/node-electrum-client/issues"
+  },
+  "dependencies": {},
+  "description": "Electrum protocol client for node.js",
+  "devDependencies": {
+    "electrum-host-parse": "*"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "homepage": "https://github.com/you21979/node-electrum-client#readme",
+  "keywords": [
+    "client",
+    "electrum",
+    "bitcoin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "electrum-client",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/you21979/node-electrum-client.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.7"
+}
